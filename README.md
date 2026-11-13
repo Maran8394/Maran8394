@@ -18,5 +18,4 @@ LLMs, RAG, AI agents, computer vision and backend systems.
 - RAG Document Chatbot
 
 ## Tech Stack
-Python | FastAPI | PyTorch | LangChain
-Docker | PostgreSQL | FAISS | AWS
+Python | FastAPI | PyTorch | LangChain | Docker | PostgreSQL | FAISS | AWS
