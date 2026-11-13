@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Maran 👋
 
-<!--
-**Maran8394/Maran8394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Applied AI Engineer | Python Developer
 
-Here are some ideas to get you started:
+I build practical AI applications combining
+LLMs, RAG, AI agents, computer vision and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Areas
+- Generative AI & LLM Applications
+- Retrieval-Augmented Generation
+- AI Agents & Workflow Automation
+- Computer Vision & OCR
+- Python Backend Engineering
+
+## Featured Projects
+- Job Copilot
+- Retain iOS App
+- RAG Document Chatbot
+
+## Tech Stack
+Python | FastAPI | PyTorch | LangChain
+Docker | PostgreSQL | FAISS | AWS
